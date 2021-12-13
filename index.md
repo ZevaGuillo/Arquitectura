@@ -1,5 +1,12 @@
 ## Welcome to GitHub Pages
 
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  intent="WELCOME"
+  chat-title="Mascarilla"
+  agent-id="ce589c99-5515-4f43-ae81-753f04c14085"
+  language-code="es"
+></df-messenger>
 
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
